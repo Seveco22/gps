@@ -1,12 +1,15 @@
-# VulnAnalyzer
+# AVGP-AnalisisVulnerabilidades
+<p align="center">
+    <img src="https://github.com/Seveco22/gps/blob/main/Logotipo.jpg" alt="Logo" width="200"/>
+</p>
 
-![VulnAnalyzer Logo](ruta/al/logotipo.png)
-
-![VulnAnalyzer Banner](ruta/al/banner.png)
+<p align="center">
+    <img src="https://github.com/Seveco22/gps/blob/main/Banner.jpg" alt="Logo" width="800"/>
+</p>
 
 ## Descripción
 
-VulnAnalyzer es un programa diseñado para analizar las vulnerabilidades de las páginas de compras en línea. Utiliza tecnologías avanzadas de seguridad y análisis para identificar y mitigar posibles amenazas en la infraestructura de tu e-commerce.
+Oppengeniers es un programa diseñado para analizar las vulnerabilidades de las páginas de compras en línea. Utiliza tecnologías avanzadas de seguridad y análisis para identificar y mitigar posibles amenazas en la infraestructura de tu e-commerce.
 
 ## Características
 
@@ -17,27 +20,27 @@ VulnAnalyzer es un programa diseñado para analizar las vulnerabilidades de las 
 
 ## Requisitos del Sistema
 
-- Sistema Operativo: Windows, macOS, Linux
+- Sistema Operativo: Windows, macOS, Linux.
 - Python 3.7+
-- Dependencias: especificar las dependencias necesarias
+- Visual Studio y Visual Studio Code.
 
 ## Instalación
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tuusuario/VulnAnalyzer.git
+    git clone https://github.com/Facostabricen90/AVGP-AnalisisVulnerabilidades
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd VulnAnalyzer
+    cd AVGP-AnalisisVulnerabilidades
     ```
 3. Instala las dependencias necesarias:
     ```bash
-    pip install -r requirements.txt
+    pip install beautifulsoup4
     ```
 
 ## Uso
 
 Para ejecutar un análisis de vulnerabilidades, utiliza el siguiente comando:
 ```bash
-python vulnanalyzer.py --target https://www.ejemplo.com
+python .\index.py
